@@ -1,8 +1,7 @@
 <h2>Tech Requirements</h2>
 
-<h3>Program Versions</h3>
-The project was developed using Omniverse USD Composer version 2022.3.3 (formerly known as Omniverse Create) and Unreal Engine 5.1.1.
-The used version of the Omniverse UE Connector was 201.1.244 and the used Local Nucleus Service version was 2022.4.2. For a quick overview, refer to the table below.
+<h3>Program Stack</h3>
+The project was developed using Omniverse USD Composer (formerly known as Omniverse Create) and Unreal Engine by utilizing the Omniverse UE Connector and the Omniverse Local Nucleus Service. For a quick overview of the used program versions, refer to the table below.
 <br></br>
 
 <table>
