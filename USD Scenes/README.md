@@ -1,1 +1,6 @@
+"RB6_RedBullRing_Animation_with_Cams.usd" holds an Animation of the racecar driving around the track. This scene can be used to test the camera switching extension, as well as the concurrent simulation in Omniverse and Unreal Engine. For the concurrent Simulation a live connection to Unreal Engine needs to be established (e.g. convert .usd to .live file).
+
+
+"RB6_RedBullRing_Driving" holds the exact same scene as the above USD file, but this file has the actual drivable vehicle in it opposed to the animation i.e. you can drive the racecar yourself in this scene.
+
 .rar file needed as otherwise the 25mb Limit is breached
