@@ -24,3 +24,8 @@ The extension named "strange.camera.switcher-1.0.0" provides the functionality t
 The extension named "strange.usd.timeline.player-1.0.0" provides the functionality to play the animation concurrently in Omniverse and UE. Again activate it in the Extensions window after importing it.
 
 ![Screenshot 2023-08-07 142500_edited (2)](https://github.com/itsthestranger/omni-virtual-f1-prototype/assets/11008552/e439748c-906d-4fac-84da-1c0a22cd6465)
+
+
+
+<h4>Note:</h4>
+For more information, please refer to the <a href="https://github.com/itsthestranger/omni-virtual-f1-prototype/blob/main/Virtual_F1_Prototype_and_Omniverse_UE_CoSim_Report.pdf">"Virtual_F1_Prototype_and_Omniverse_UE_CoSim_Report"</a>.
