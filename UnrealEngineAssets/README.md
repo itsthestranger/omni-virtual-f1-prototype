@@ -20,3 +20,7 @@ When opening the "MyOmniverseStageActor" Blueprint Class you should see the same
 If you connect the "Event BeginPlay" Node to the "Concurrent Simulation" Node, this enables the triggering of the animation based on the underlying "activate" boolean value in the "RB6_RedBullRing_Animation_with_Cams.usda" scene. Thus the "Concurrent Simulation" Node functions as a listener, which then plays/pauses the animation based on the state of the underlying boolean property.
 
 ![Screenshot 2023-08-07 141416_edited (2)](https://github.com/itsthestranger/omni-virtual-f1-prototype/assets/11008552/f376132a-f631-4a59-bb51-326b3fbe6209)
+
+
+<h4>Note:</h4>
+For more information, please refer to the "Virtual_F1_Prototype_and_Omniverse_UE_CoSim_Report".
