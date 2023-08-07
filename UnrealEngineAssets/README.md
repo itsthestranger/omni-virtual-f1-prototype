@@ -23,4 +23,4 @@ If you connect the "Event BeginPlay" Node to the "Concurrent Simulation" Node, t
 
 
 <h4>Note:</h4>
-For more information, please refer to the "Virtual_F1_Prototype_and_Omniverse_UE_CoSim_Report".
+For more information, please refer to the "Virtual_F1_Prototype_and_Omniverse_UE_CoSim_Report" (https://github.com/itsthestranger/omni-virtual-f1-prototype/blob/7ea0b955227409f05f484fd9236dff1f29cc9b23/Virtual_F1_Prototype_and_Omniverse_UE_CoSim_Report.pdf).
