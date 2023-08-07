@@ -4,6 +4,7 @@ The provided extensions can be imported in the Extensions Window in Omniverse US
 
 <h2>Import Extensions</h2>
 To import the extensions go to "Window/Extensions" and then click on the icon (3 bars) next to the drop-down and select "Import Extension", as visible in the Figure below.
+<br></br>
 
 ![Screenshot 2023-08-07 185141_edited](https://github.com/itsthestranger/omni-virtual-f1-prototype/assets/11008552/d1c823ea-5680-429c-8957-81dd6f56ae29)
 
