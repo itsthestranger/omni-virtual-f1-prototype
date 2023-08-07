@@ -9,5 +9,7 @@ The "USD Scenes.rar" file contains 2 scenes, "RB6_RedBullRing_Animation_with_Cam
 
 
 
-<h4>Note:</h4>
+<h4>Notes:</h4>
 Scenes are uploaded combined in a .rar file as otherwise the 25mb Limit is breached
+
+The used <a> \href{https://sketchfab.com/3d-models/redbull-rb6-a177b4ccee52433da7f608aeef686c48}{Red Bull RB6}  from the year 2010, which can be downloaded as an FBX file from the provided link. This model was created by $FabianTheFormula1Fan$
