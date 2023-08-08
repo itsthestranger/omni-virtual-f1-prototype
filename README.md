@@ -1,3 +1,10 @@
+<h2>Overview</h2>
+The aim of this project was, to build a prototype, showcasing the capabilities a Virtual F1 Attendance application would need and how it could look. The application in mind (Virtual F1 Attendance) would enable a User to watch a virtual F1 race as if he was attending the race at the racetrack, providing the needed immersion into the virtual world for an exhilarating experience. 
+
+In order to accomplish this, the choice of a suitable game engine for development needs to be determined. Given the growing popularity of NVIDIA's Omniverse and the increasing adoption of USD (Universal Scene Description) as a standard for 3D development applications, the decision was made to utilize Omniverse in conjunction with Unreal Engine 5. This choice will not only facilitate the creation of the prototype but also allow for testing the collaborative and co-simulation capabilities between Omniverse and Unreal Engine, as Omniverse provides a Connector for Unreal Engine (UE). 
+As a prerequisite we recommend looking at the project <a href="https://dev.epicgames.com/community/learning/tutorials/e9EJ/unreal-engine-co-simulation-ue-and-omniverse-spaceverse-gtc-demo-return-on-experience">"Co-Simulation UE and Omniverse - "SpaceVerse" GTC demo - Return on Experience"</a>, as many parts of this project base on it as well as the idea for delving into co-simulation between Omniverse and Unreal Engine was sparked by this project.
+
+
 <h2>Tech Requirements</h2>
 
 <h3>Program Stack</h3>
