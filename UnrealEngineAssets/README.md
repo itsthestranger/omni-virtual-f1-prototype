@@ -2,7 +2,7 @@
 
 The .uasset files are the needed files for the USD Property readout in Unreal Engine and thus they are needed for the concurrent simulation showcase.
 
-The Plugins folder holds the modified Omniverse Plugin and after creating your Unreal Engine Project (make sure you have C++ enabled) you simply need to move this Plugins folder to the root of your project files. As an example refer to the Figure below.
+The Plugins.rar contains the Plugins folder, which holds the modified Omniverse Plugin and after creating your Unreal Engine Project (make sure you have C++ enabled) you simply need to move this Plugins folder to the root of your project files. As an example refer to the Figure below.
 
 ![Screenshot 2023-08-08 120838_edited (2)](https://github.com/itsthestranger/omni-virtual-f1-prototype/assets/11008552/f8d11a27-3bea-4946-8ec5-8a8b855de830)
 
