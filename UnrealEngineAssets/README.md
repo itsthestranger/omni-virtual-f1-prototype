@@ -1,8 +1,13 @@
 <h2>Overview</h2>
 
-These files are the needed files for the USD Property readout in Unreal Engine and thus they are needed for the concurrent simulation showcase.
+The .uasset files are the needed files for the USD Property readout in Unreal Engine and thus they are needed for the concurrent simulation showcase.
 
-The files need to be moved to the "Content" Folder of your Unreal Engine Project. After moving these files into your "Content" Folder you simply need to use the "MyOmniverseStageActor.uasset" instead of the default "OmniverseStageActor" Actor. Therefore simply drag the "MyOmniverseStageActor.uasset" into the scene and add your .live file to the "USD" property of the Omniverse Stage Actor, as signalled in Figure below.
+The Plugins folder holds the modified Omniverse Plugin and after creating your Unreal Engine Project (make sure you have C++ enabled) you simply need to move this Plugins folder to the root of your project files. As an example refer to the Figure below.
+
+![Screenshot 2023-08-08 120838_edited (2)](https://github.com/itsthestranger/omni-virtual-f1-prototype/assets/11008552/f8d11a27-3bea-4946-8ec5-8a8b855de830)
+
+
+The .uasset files need to be moved to the "Content" Folder of your Unreal Engine Project, as displayed in the Figure above. After moving these files into your "Content" Folder you simply need to use the "MyOmniverseStageActor.uasset" instead of the default "OmniverseStageActor" Actor. Therefore simply drag the "MyOmniverseStageActor.uasset" into the scene and add your .live file to the "USD" property of the Omniverse Stage Actor, as signalled in Figure below.
 
 ![Screenshot 2023-08-07 141124_edited (2)](https://github.com/itsthestranger/omni-virtual-f1-prototype/assets/11008552/2829d463-b123-4e15-a9b2-59a9a63ca70d)
 
