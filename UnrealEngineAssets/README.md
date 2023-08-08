@@ -17,14 +17,23 @@ Further you can look at the "MyOmniverseStageActor" Blueprint Class by opening i
 ![Screenshot 2023-08-07 141341_edited (2)](https://github.com/itsthestranger/omni-virtual-f1-prototype/assets/11008552/3c002c86-0991-4763-bb88-dce167803f48)
 
 
-When opening the "MyOmniverseStageActor" Blueprint Class you should see the same contents as presented in the Figure below. By default the "Event BeginPlay" Node is connected to the Node, which enables the readout of a float property of the underlying USD Scene. This can be tested in combination with the "RB6_RedBullRing_Driving.usd", as here the "Steer" property of the drivable vehicle is read out. An example of how this looks is shown here:
+When opening the "MyOmniverseStageActor" Blueprint Class you should see the same contents as presented in the image below. 
+
+
+![Screenshot 2023-08-07 141416_edited (2)](https://github.com/itsthestranger/omni-virtual-f1-prototype/assets/11008552/f376132a-f631-4a59-bb51-326b3fbe6209)
+
+By default the "Event BeginPlay" Node is connected to the Node, which enables the readout of a float property of the underlying USD Scene. This can be tested in combination with the "RB6_RedBullRing_Driving.usd", as here the "Steer" property of the drivable vehicle is read out. An example of how this looks is shown here:
 
 ![Screenshot 2023-07-12 164248_edited (2)](https://github.com/itsthestranger/omni-virtual-f1-prototype/assets/11008552/f031b720-1ae6-404a-9be1-23a6d8f56910)
 
 
 If you connect the "Event BeginPlay" Node to the "Concurrent Simulation" Node, this enables the triggering of the animation based on the underlying "activate" boolean value in the "RB6_RedBullRing_Animation_with_Cams.usda" scene. Thus the "Concurrent Simulation" Node functions as a listener, which then plays/pauses the animation based on the state of the underlying boolean property.
 
-![Screenshot 2023-08-07 141416_edited (2)](https://github.com/itsthestranger/omni-virtual-f1-prototype/assets/11008552/f376132a-f631-4a59-bb51-326b3fbe6209)
+To make sure everthing is working correctly simply right-click in the Event Graph of the "MyOmniverseStageActor" Blueprint Class and search for Omniverse UE, where you should find the same functions as shown below. If this is the case everything should work fine.
+
+![Screenshot 2023-08-08 120543_edited (2)](https://github.com/itsthestranger/omni-virtual-f1-prototype/assets/11008552/2f0bfcce-da4f-42f1-8757-bbb5283f5bec)
+
+
 
 
 <h4>Note:</h4>
