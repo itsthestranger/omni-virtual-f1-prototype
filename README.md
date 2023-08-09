@@ -15,7 +15,7 @@ The OmniverseExtensions Folder holds the needed Omniverse Extensions to showcase
 <br></br>
 The USD Scenes Folder contains 2 Scenes. One scene ("RB6_RedBullRing_Driving.usd"), where the racecar can be driven around the track and another scene ("RB6_RedBullRing_Animation_with_Cams.usda") holding the animation of the racecar driving around the track.
 <br></br>
-The UnrealEngineAssets folder containes 2 options to test the USD-Property readout in Unreal Engine. Option 1 provides a Unreal Engine Project, which can be opened and tested right away and Option 2 provides all neeed files to modify an existing Unreal Engine Project.
+The UnrealEngineAssets folder containes 2 options to test the USD-Property readout in Unreal Engine. Option 1 provides a Unreal Engine Project, which can be opened and tested right away and Option 2 provides all needed files to modify an existing Unreal Engine Project.
 
 
 <h2>Tech Requirements</h2>
