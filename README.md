@@ -1,12 +1,11 @@
+<h1>Omniverse and Unreal Engine Co-Simulation for a Virtual F1 Attendance Prototype</h1>
+
 <h2>Project Introduction</h2>
 The aim of this project was, to build a prototype, showcasing the capabilities a Virtual F1 Attendance application would need and how it could look. The application in mind (Virtual F1 Attendance) would enable a User to watch a virtual F1 race as if he was attending the race at the racetrack, providing the needed immersion into the virtual world for an exhilarating experience.
 <br></br>
-In order to accomplish this, the choice of a suitable game engine for development needs to be determined. Given the growing popularity of NVIDIA's Omniverse and the increasing adoption of USD (Universal Scene Description) as a standard for 3D development applications, the decision was made to utilize Omniverse in conjunction with Unreal Engine 5. This choice will not only facilitate the creation of the prototype but also allow for testing the collaborative and co-simulation capabilities between Omniverse and Unreal Engine, as Omniverse provides a Connector for Unreal Engine (UE). In this project we thus also showcase how to read-out USD Properties in Unreal Engine and with this achieve concurrent simulation in both applications.
+Given the growing popularity of NVIDIA's Omniverse and the increasing adoption of USD (Universal Scene Description) as a standard for 3D development applications, the decision was made to utilize Omniverse in conjunction with Unreal Engine 5. Apart from building a prototype for a Virtual F1 Attendance application we utilize the Omniverse UE Connector to first create a live connection between the two engines and then go further by modifying the Unreal Engine Omniverse Plugin to enable the live read-out of underlying USD Properties. This read-out of underlying USD properties in Unreal Engine enables us to achieve concurrent animation in both applications.
 
-As a prerequisite we recommend looking at the project <a href="https://dev.epicgames.com/community/learning/tutorials/e9EJ/unreal-engine-co-simulation-ue-and-omniverse-spaceverse-gtc-demo-return-on-experience">"Co-Simulation UE and Omniverse - "SpaceVerse" GTC demo - Return on Experience"</a>, as many parts of this project base on it as well as the idea for delving into co-simulation between Omniverse and Unreal Engine was sparked by this project.
-
-
-<h2>Overview</h2>
+<h2>Repo Overview</h2>
 This repository is split into 3 Folders. 
 
 The OmniverseExtensions Folder holds the needed Omniverse Extensions to showcase the Virtual F1 Attendance Prototype (switching of viewport/position on the track) and also to showcase the concurrent simulation of the Animation in both Omniverse USD Composer as well as Unreal Engine. For both of these application we want to refer you to the <a href="https://github.com/itsthestranger/omni-virtual-f1-prototype/blob/main/Virtual_F1_Prototype_and_Omniverse_UE_CoSim_Report.pdf">Virtual_F1_Prototype_and_Omniverse_UE_CoSim_Report</a> for more information.
