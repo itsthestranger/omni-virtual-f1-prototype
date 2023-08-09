@@ -8,11 +8,12 @@ Given the growing popularity of NVIDIA's Omniverse and the increasing adoption o
 <h2>Repo Overview</h2>
 This repository is split into 3 Folders. 
 
+
 The OmniverseExtensions Folder holds the needed Omniverse Extensions to showcase the Virtual F1 Attendance Prototype (switching of viewport/position on the track) and also to showcase the concurrent simulation of the Animation in both Omniverse USD Composer as well as Unreal Engine. For both of these application we want to refer you to the <a href="https://github.com/itsthestranger/omni-virtual-f1-prototype/blob/main/Virtual_F1_Prototype_and_Omniverse_UE_CoSim_Report.pdf">Virtual_F1_Prototype_and_Omniverse_UE_CoSim_Report</a> for more information.
 <br></br>
-The USD Scenes Folder holds a compressed file containing 2 Scenes. One scene ("RB6_RedBullRing_Driving.usd"), where the racecar can be driven around the track and another scene ("RB6_RedBullRing_Animation_with_Cams.usda") holding the animation of the racecar driving around the track.
+The USD Scenes Folder contains 2 Scenes. One scene ("RB6_RedBullRing_Driving.usd"), where the racecar can be driven around the track and another scene ("RB6_RedBullRing_Animation_with_Cams.usda") holding the animation of the racecar driving around the track.
 <br></br>
-The UnrealEngineAssets folder containes the needed UAssets for the Demos as well as the modified Omniverse Plugin.
+The UnrealEngineAssets folder containes 2 options to test the USD-Property readout in Unreal Engine. Option 1 provides a Unreal Engine Project, which can be opened and tested right away and Option 2 enables the modification of an existing or custom Unreal Engine Project.
 
 
 <h2>Tech Requirements</h2>
